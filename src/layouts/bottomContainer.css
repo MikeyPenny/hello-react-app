@@ -1,0 +1,12 @@
+.bottom-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.row-bottom {
+    display: flex;
+    align-items: flex-start;
+    width: 90%;
+}
